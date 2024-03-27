@@ -2,7 +2,7 @@
 name: New paper
 about: Add the name, link and APA citation of the article that may be helpful.
 title: "[ PAPER ]"
-labels: documentation, enhancement
+labels: enhancement, paper
 assignees: ''
 
 ---
